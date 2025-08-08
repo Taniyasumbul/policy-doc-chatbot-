@@ -7,3 +7,7 @@ __pycache__/
 *.db
 *.DS_Store
 *.env
+venv/
+*.pkl
+*.txt
+*.log
