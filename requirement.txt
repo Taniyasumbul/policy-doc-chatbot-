@@ -1,0 +1,14 @@
+langchain
+openai
+PyMuPDF
+python-docx
+tiktoken
+chromadb
+faiss-cpu
+sentence-transformers
+pypdf
+unstructured
+python-dotenv
+langchain-google-genai
+langchain-community
+transformers
