@@ -12,3 +12,5 @@ python-dotenv
 langchain-google-genai
 langchain-community
 transformers
+streamlit
+
